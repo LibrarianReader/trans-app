@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/trans-app/static/css/main.a9089c74.chunk.css",
+    "main.js": "/trans-app/static/js/main.4aa5ada0.chunk.js",
+    "main.js.map": "/trans-app/static/js/main.4aa5ada0.chunk.js.map",
+    "runtime~main.js": "/trans-app/static/js/runtime~main.f6217a61.js",
+    "runtime~main.js.map": "/trans-app/static/js/runtime~main.f6217a61.js.map",
+    "static/js/2.3ad75f56.chunk.js": "/trans-app/static/js/2.3ad75f56.chunk.js",
+    "static/js/2.3ad75f56.chunk.js.map": "/trans-app/static/js/2.3ad75f56.chunk.js.map",
+    "index.html": "/trans-app/index.html",
+    "precache-manifest.f955139856ffa6dff3b63bf3f524643b.js": "/trans-app/precache-manifest.f955139856ffa6dff3b63bf3f524643b.js",
+    "service-worker.js": "/trans-app/service-worker.js",
+    "static/css/main.a9089c74.chunk.css.map": "/trans-app/static/css/main.a9089c74.chunk.css.map"
+  }
+}
